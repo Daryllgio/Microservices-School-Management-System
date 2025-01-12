@@ -128,6 +128,3 @@ v) API Endpoints
 
   GET /api/v1/students/school/{school-id}
 
-
-
-
