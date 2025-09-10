@@ -1,7 +1,3 @@
-Awesome—thanks for the real files. I’ve built you a **polished, production-accurate README** that matches your codebase (ports, routes, configs, POMs, compose, controllers). Copy–paste this into your repo’s `README.md`.
-
----
-
 # Microservices-Based School Management System
 
 ## **Overview**
